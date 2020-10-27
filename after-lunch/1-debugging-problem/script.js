@@ -1,4 +1,4 @@
-const list = document.querySelector(".list")
+const list = document.querySelector("list")
 const button = document.querySelector("button")
 
 button.addEventListener("click", () => {
